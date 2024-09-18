@@ -2,4 +2,4 @@
 
 Ushbu havolada Boburning hayot yo'llari yoritilgan
 
-[Bobur](https://bobur.com)
+[Bobur](https://bobur)
